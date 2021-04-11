@@ -1,0 +1,39 @@
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.exe
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.deps.json
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.dll
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.pdb
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.dll
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.pdb
+C:\Users\Francisco Silva\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.exe
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.deps.json
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.dll
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.pdb
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.dll
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.pdb
+C:\Users\Francisco Silva\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.exe
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.deps.json
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.runtimeconfig.json
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.dll
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\netcoreapp3.1\ClinicaVeterinaria.pdb
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.dll
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.pdb
+C:\Users\Admin\Desktop\PorjeBackup1\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\netcoreapp3.1\ClinicaVeterinaria.genruntimeconfig.cache
